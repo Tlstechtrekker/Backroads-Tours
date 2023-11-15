@@ -159,6 +159,9 @@ p {
   margin: 0 auto;
   max-width: 1170px;
 }
+
+
+
 @media screen and (min-width: 992px) {
   .section-center {
     width: 95vw;
@@ -557,5 +560,9 @@ Navbar
   .nav-icon:hover {
     color: var(--clr-primary-8);
   }
-  
+  =========== my added styles ==============
+  .section-troubleshoot {
+    background-color: #fff45c;
+    xbackground-color: #fad980;
+  }
 }
